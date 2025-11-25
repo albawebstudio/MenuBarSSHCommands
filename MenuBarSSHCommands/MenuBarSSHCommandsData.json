@@ -1,6 +1,6 @@
 {
   "_comments": [
-      "Valid terminals include: 'Terminal' or 'iTerm' (Suggested)",
+      "Valid terminals include: 'Terminal' or 'iTerm' (Suggested)"
   ],
   "terminal": "iTerm",
   "data": [
@@ -8,7 +8,7 @@
       "action": [
         {
           "name": "Action1",
-          "command": "ssh admin@host.com"
+          "command": "ssh admin@host.com --profile Production"
         }
       ]
     },
